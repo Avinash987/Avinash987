@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi  👋
 
-<!--
-**Avinash987/Avinash987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Avinash! 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on projects related to data science and machine learning.
+- 🌱 I’m cur
+- 👯 I’m looking to collaborate in deep learning and reinforcement learning related projects.
+- 🤔 I’m looking for a study partner to learn NLP and Computer Vision.
+- 💬 Ask me anything about technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=avinash987&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=avinash987&hide_langs_below=.25&theme=radical">
+</p>
